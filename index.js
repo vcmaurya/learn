@@ -12,3 +12,7 @@ hello("Vivek");
 console.log("git pull by ejaz");
 
 console.log("Hello Vivek...");
+
+setTimeout(function() {
+    console.log("This message is shown after 2 seconds");
+}, 2000);
