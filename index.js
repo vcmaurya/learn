@@ -8,5 +8,7 @@ function hello(name) {
     console.log(`hi $(name) `)
 };
 
-hello("Vivek")
-console.log("git pull by ejaz")
+hello("Vivek");
+console.log("git pull by ejaz");
+
+console.log("Hello Vivek...");
