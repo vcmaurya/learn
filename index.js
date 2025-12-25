@@ -9,3 +9,4 @@ function hello(name) {
 };
 
 hello("Vivek")
+console.log("git pull by ejaz")
