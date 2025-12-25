@@ -3,3 +3,9 @@ function greet() {
 };
 
 greet();
+
+function hello(name) {
+    console.log(`hi $(name) `)
+};
+
+hello("Vivek")
